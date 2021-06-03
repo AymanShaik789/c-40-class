@@ -1,1 +1,1 @@
-# c-40-class
+# c40-Teacher-reference
